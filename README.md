@@ -8,7 +8,7 @@ I'm Tuyisingize Benjamin a Full Stack Web Developer , I Spend most of time codin
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @RwandaBuildProgram
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `git commit -m "git commit -m"..."`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: tbenpollyl@gmail.com
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
