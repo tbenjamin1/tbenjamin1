@@ -18,9 +18,15 @@ I'm Tuyisingize Benjamin a Full Stack Web Developer , I Spend most of time codin
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![vuejs Badge](https://img.shields.io/badge/-vuejs-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![Flutter](https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B
-)](#)[![Nest js](https://img.shields.io/badge/-nestjs-e0234e?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=e0234e
-)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Vue.js Badge](https://img.shields.io/badge/-Vue.js-42B883?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=42B883)](#)
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)](#)
+[![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)](#)
 
  
 
